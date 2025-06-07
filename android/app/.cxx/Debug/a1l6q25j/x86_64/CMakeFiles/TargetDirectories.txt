@@ -1,0 +1,2 @@
+C:/Users/sukar/Desktop/votechain/votechain/android/app/.cxx/Debug/a1l6q25j/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/sukar/Desktop/votechain/votechain/android/app/.cxx/Debug/a1l6q25j/x86_64/CMakeFiles/rebuild_cache.dir
